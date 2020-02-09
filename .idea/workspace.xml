@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a3a4352-f3b5-4b88-a2ba-98054345e6dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XAre8VOKBe1Ad8nHlGLt0z889l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_restapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\gabri\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Python.Unnamed" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a3a4352-f3b5-4b88-a2ba-98054345e6dc" name="Default Changelist" comment="" />
+      <created>1580499832725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580499832725</updated>
+      <workItem from="1580499849374" duration="1293000" />
+      <workItem from="1580502224411" duration="1622000" />
+      <workItem from="1580960359039" duration="74000" />
+      <workItem from="1581289644949" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580503233597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580503233597" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1580503232864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580503232864" />
+    <state width="1492" height="190" key="GridCell.Tab.0.bottom" timestamp="1580503847238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580503847238" />
+    <state width="1492" height="190" key="GridCell.Tab.0.center" timestamp="1580503847238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="190" key="GridCell.Tab.0.center/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580503847238" />
+    <state width="1492" height="190" key="GridCell.Tab.0.left" timestamp="1580503847237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="190" key="GridCell.Tab.0.left/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580503847237" />
+    <state width="1492" height="190" key="GridCell.Tab.0.right" timestamp="1580503847238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="190" key="GridCell.Tab.0.right/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580503847238" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1580500059792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580500059792" />
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1580502228422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.147.1366.728@0.0.1536.824" timestamp="1580502228422" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_restapi$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1580503171490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
